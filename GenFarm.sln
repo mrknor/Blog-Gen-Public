@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenFarm", "GenFarm\GenFarm.csproj", "{D1B82F32-FE40-4ECC-BF6B-B8FD10C010D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1B82F32-FE40-4ECC-BF6B-B8FD10C010D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1B82F32-FE40-4ECC-BF6B-B8FD10C010D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1B82F32-FE40-4ECC-BF6B-B8FD10C010D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1B82F32-FE40-4ECC-BF6B-B8FD10C010D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F13888C4-51C2-4C4F-9033-9CB945313341}
+	EndGlobalSection
+EndGlobal
